@@ -1,0 +1,6 @@
+{
+  "parent": "tool/generated",
+  "textures": {
+    "layer0": "model_1_15_2:tool/model_hoe"
+  }
+}
