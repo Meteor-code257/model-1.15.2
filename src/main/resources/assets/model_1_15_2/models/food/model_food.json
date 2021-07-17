@@ -1,6 +1,0 @@
-{
-  "parent": "food/generated",
-  "textures": {
-    "layer0": "model_1_15_2:food/model_food"
-  }
-}
