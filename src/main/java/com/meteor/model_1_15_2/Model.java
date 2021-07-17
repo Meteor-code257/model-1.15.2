@@ -1,6 +1,6 @@
 package com.meteor.model_1_15_2;
 
-import com.meteor.model_1_15_2.items.ItemRegistry;
+import com.meteor.model_1_15_2.item.ItemRegistry;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
