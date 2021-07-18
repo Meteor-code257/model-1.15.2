@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "face=false": { "model": "model_1_15_2:block/model_block_face_false_model" },
+    "face=true":  { "model": "model_1_15_2:block/model_block_face_true_model"  }
+  }
+}
