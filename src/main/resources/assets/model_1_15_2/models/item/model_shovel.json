@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "model_1_15_2:item/model_shovel_texture"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "item.model_1_15_2.model_item": "样例物品",
+  "item.model_1_15_2.model_food": "样例食物",
+  "item.model_1_15_2.model_axe": "样例斧头",
+  "item.model_1_15_2.model_hoe": "样例锄头",
+  "item.model_1_15_2.model_pickaxe": "样例镐子",
+  "item.model_1_15_2.model_shovel": "样例铲子",
+  "item.model_1_15_2.model_sword": "样例剑",
+
+  "block.model_1_15_2.model_block": "样例方块",
+  "block.model_1_15_2.model_render_type": "样例渲染类型",
+
+  "itemGroup.model_tab": "样例物品栏"
+}

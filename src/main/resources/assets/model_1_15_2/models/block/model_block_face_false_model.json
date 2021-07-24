@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "model_1_15_2:block/model_block_face_false_texture"
+  }
+}
